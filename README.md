@@ -1,5 +1,3 @@
-# DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control
+# TransRetarget 一种用于运动重定向的时空Transformer网络
 
-
-Webpage for "DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control"
 
