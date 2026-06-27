@@ -1,5 +1,5 @@
-# TransRetarget 一种用于运动重定向的时空Transformer网络
-demo: https://ZaynLeung.github.io/TransRetargetv1/
+# The project page of "TransRetarget: A Human-Robot Hand Motion Retargeting Framework Based on Temporal-Spatial Transformer"
 
-Code: https://github.com/ZaynLeung/TransRetarget
+demo: https://ZaynLeung.github.io/TransRetargetv1/
+Code: https://github.com/ZaynLeung/TransRetarget/
 
